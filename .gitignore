@@ -31,3 +31,5 @@ build/
 .vscode/
 
 /out/
+
+.DS_Store
